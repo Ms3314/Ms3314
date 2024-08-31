@@ -1,4 +1,7 @@
 ## Hi there 👋
+- I am currently working on the React , Express and ejs 
+- I am learning the MERN stack
+
 
 <!--
 **Ms3314/Ms3314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
