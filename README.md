@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am currently working on the React , Express and ejs 
+- I am currently working on React, Express and ejs 
 - I am learning the MERN stack
 
 
