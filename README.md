@@ -1,3 +1,12 @@
+### Hello everybody this is Sami 
+╰(*°▽°*)╯
+
+<br>
+<br>
+I am Pursuing Computer Science at the MJCET Hyd other than cooding 
+I also love making UI/UX designs🕸️ and doing Marketting 💹 
+### These are some of the technologies I am learning and working on 
+
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
@@ -17,7 +26,7 @@
 <!--   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" /> 
 <!--   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" /> -->
 </div>
 
