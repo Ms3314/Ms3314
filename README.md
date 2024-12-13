@@ -5,8 +5,9 @@
 <br>
 I am Pursuing Computer Science at the MJCET Hyd other than cooding 
 I also love making UI/UX designs🕸️ and doing Marketting 💹 
-### These are some of the technologies I am learning and working on 
+<br>
 
+### These are some of the technologies I am learning and working on ###
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
