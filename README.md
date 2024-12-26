@@ -11,7 +11,7 @@ I also love making UI/UX designs🕸️ and doing Marketting 💹
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 10px;" /> -->
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
@@ -24,7 +24,7 @@ I also love making UI/UX designs🕸️ and doing Marketting 💹
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=graphql" alt="Apollo GraphQL" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40" style="margin-right: 10px;" /> -->
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" /> 
