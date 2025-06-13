@@ -1,24 +1,15 @@
 ###  This is Sami 
-I am Pursuing Computer Science at the MJCET Hyd other than cooding 
-I also love making UI/UX designs and talking to people 
 
 
-### My Bleeding tech stack for 2025 👀 !!  ###
+
 <div style="display: flex; gap:10% ; flex-direction: row;  align-items: center;">
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40" style="margin-right: 10px;" />
 <!--   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40" style="margin-right: 10px;" /> -->
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-
-  <br/>
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" /> 
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=notion" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-<!--   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" /> -->
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Python" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 
