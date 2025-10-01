@@ -1,4 +1,4 @@
-###  This is Sami 
+###  This is Samiuddin
 
 
 
@@ -10,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Python" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Python" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 
