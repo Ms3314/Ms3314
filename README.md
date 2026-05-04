@@ -1,28 +1,16 @@
-###  This is Samiuddin
+I'm **Samiuddin**
 
+Full Stack • AI • DevOps Engineer  
+I build everything — from **CODE to PROD**
 
+---
 
-<div style="display: flex; gap:10% ; flex-direction: row;  align-items: center;">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Flutter" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=azure" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-</div>
+###  Connect with me
+- Email: hsamiuddin405@gmail.com  
+- Notion/Portfolio : https://tinyurl.com/samilabs  
 
+---
 
-
-<!-- <div style="display: flex; flex-direction: row; align-items: center;">
-<!--   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" /> -->
-<!-- </div> -->
-
-<!-- <div style="display: flex; flex-direction: row; align-items: center;">
-<!--   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 10px;" /> -->
-<!--   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" /> -->
-<!-- </div> -->
+###  Experience
+- Maintainer & Tech Captain @ GDGC MJCET  
+- Ex SDE Intern @ Aapseed Technologies
