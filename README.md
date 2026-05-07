@@ -13,4 +13,4 @@ I build everything — from **CODE to PROD**
 
 ###  Experience
 - Maintainer & Tech Captain @ GDGC MJCET  
-- Ex SDE Intern @ Aapseed Technologies
+- Ex SDE Intern @ Appseed Technologies
